@@ -127,3 +127,9 @@ Forsythe Pharmacy uses WhatsApp to manage just-in-time drug orders from hospital
 - Staff already familiar with Microsoft Excel
 - Need near–real-time visibility into orders and order progress from start to delivery.
 - Solution must be simple, cheap, and reliable
+
+## Skills Utilized and Concepts Covered
+- Advanced Excel formulas (XLOOKUP, IF, IFERROR) to automatically retrieve delivery addresses and handle missing or zero values
+- Data Validation to reduce data entry errors and ensure accurate inputs
+- Conditional Formatting to provide visual cues and highlight important information
+- Sheet Protection to prevent unauthorized changes and maintain data integrity
